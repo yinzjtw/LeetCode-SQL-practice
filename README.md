@@ -1,1 +1,1 @@
-# LeetCode-SQL-practice
+紀錄SQL練習紀錄，題目來自LeetCode

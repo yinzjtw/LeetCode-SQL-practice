@@ -28,5 +28,6 @@ Return the result table in any order.
 The result format is in the following example.
 
 ##### Write MySQL query statement below #####
-SELECT unique_id, name FROM EmployeeUNI
+SELECT unique_id, name 
+FROM EmployeeUNI
 RIGHT JOIN Employees ON EmployeeUNI.id = Employees.id;

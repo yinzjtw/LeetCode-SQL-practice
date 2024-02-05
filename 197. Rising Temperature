@@ -19,7 +19,7 @@ Write a solution to find all dates' Id with higher temperatures compared to its 
 Return the result table in any order.
 
 ##### Write MySQL query statement below #####
-select a.id from Weather a
-inner join Weather b
-on DATE_SUB(a.recordDate, INTERVAL 1 DAY) = b.recordDate
-where a.temperature > b.temperature;
+SELECT a.id FROM Weather a
+INNER JOIN Weather b
+ON DATE_SUB(a.recordDate, INTERVAL 1 DAY) = b.recordDate
+WHERE a.temperature > b.temperature;

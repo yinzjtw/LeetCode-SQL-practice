@@ -17,5 +17,5 @@ Thank you for visiting! This repository holds my SQL practice from LeetCode.\
 7. [1211. Queries Quality and Percentage](https://github.com/yinzjtw/LeetCode-SQL-practice/blob/main/1211.%20Queries%20Quality%20and%20Percentage)
 -CASE WHEN 條件 THEN 符合條件則 ELSE 不符合條件則 END
 
-
-更多案例請點[LeetCode-SQL-practice](https://github.com/yinzjtw/LeetCode-SQL-practice)!
+\
+更多案例請點[LeetCode-SQL-practice](https://github.com/yinzjtw/LeetCode-SQL-practice) !

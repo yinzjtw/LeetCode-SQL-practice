@@ -1,0 +1,22 @@
+##### Description #####
+Table: Logs
+
++-------------+---------+
+| Column Name | Type    |
++-------------+---------+
+| id          | int     |
+| num         | varchar |
++-------------+---------+
+In SQL, id is the primary key for this table.
+id is an autoincrement column.
+ 
+
+Find all numbers that appear at least three times consecutively.
+Return the result table in any order.
+
+##### Write MySQL query statement below #####
+
+select distinct(a.num) 'ConsecutiveNums' from Logs a 
+join Logs b on a.num  = b.num
+join Logs c on c.num  = b.num
+where b.id = a.id-1 and c.id = b.id-1;

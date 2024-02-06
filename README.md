@@ -6,7 +6,7 @@ Thank you for visiting! This repository holds my SQL practice from LeetCode.\
 -SELECT, WHERE, GROUP BY, HAVING
 2. [1934. Confirmation Rate](https://github.com/yinzjtw/LeetCode-SQL-practice/blob/main/1934.%20Confirmation%20Rate)
 -SUM with condition, COUNT, UNION
-3. [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/?envType=study-plan-v2&envId=top-sql-50)
+3. [180. Consecutive Numbers](https://github.com/yinzjtw/LeetCode-SQL-practice/blob/main/180.%20Consecutive%20Numbers)
 -INNER JOIN three tables, DISTINCT
 4. [1327. List the Products Ordered in a Period](https://github.com/yinzjtw/LeetCode-SQL-practice/blob/main/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period)
 -RIGHT JOIN
